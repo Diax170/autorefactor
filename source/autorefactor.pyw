@@ -37,7 +37,7 @@ del tmp_font
 
 __title__ = 'autorefactor'
 __author__ = 'Diax170'
-__version__ = 'alpha v1.0.0'
+__version__ = 'alpha v1.0.1'
 
 
 def help_():
@@ -47,14 +47,14 @@ Title: {__title__}
 Author: {__author__}
 Version: {__version__}
 
-This script automatically moves files from one directory or another.
+This script automatically moves files from one directory to another.
 When it detects that a specified file (start directory) exists, it moves it to another directory and renames it to match the name specified under end directory.
 
 For example, if:
 Start directory is C:\\Users\\User\\Downloads\\download.pdf
 and end directory is E:\\Documents\\important.pdf
 the script will check for existence of download.pdf every second. If it exists, it will be moved to E:\\Documents and renamed to important.pdf
-If important.pdf existed before the move, it will be overwritten.
+If important.pdf already existed before the move, it will be overwritten.
 
 This program can also be used as a command. Open command prompt and open the script with /? argument for more info.
 
