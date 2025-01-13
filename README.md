@@ -2,7 +2,7 @@
 A script for automatic file movement.
 
 # Attention
-This script is version alpha, so it hasn't beem fully tested yet.\
+This script is version alpha, so it hasn't been fully tested yet.\
 Any bug reports would be very helpful.
 
 # Description
