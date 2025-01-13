@@ -19,14 +19,15 @@ If ```important.pdf``` already existed before the move, it will be overwritten.
 
 # How to run
 You can either open:
-- The ```.pyw``` file if you have Python on your computer (recommended), you should have version 3.10 or newer,
-- or the executable (releases).
+- The ```autorefactor.pyw``` file if you have Python on your computer (recommended), you should have version 3.10 or newer,
+- or the ```autorefactor.exe``` executable (in releases).
 
 # Commands and macros
 This program can also be used as a command. Open command prompt and open the script with ```/?``` argument for more info, e.g.
 ```autorefactor /?```
 
-You can also run the macro creator (which comes along with this program), create a macro and later import your settings easily.
+You can also run the macro creator (which comes along with this program), create a macro and later import your settings easily.\
+Its Python script file is ```macrocreator.pyw``` (located in the branch main) and the executable is ```macrocreator.pyw``` (can be found in releases).
 
 Note that:
 - The macro creator creates ```.bat``` files which are Windows exclusive, so they proabably won't work on another systems.
