@@ -1,6 +1,10 @@
 # autorefactor
 A script for automatic file movement.
 
+# Attention
+This script is version alpha, so it hasn't beem fully tested yet.\
+Any bug reports would be very helpful.
+
 # Description
 This script automatically moves files from one directory or another.
 
