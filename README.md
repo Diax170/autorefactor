@@ -1,6 +1,3 @@
-# Under construction
-This repository is under construction.
-
 # autorefactor
 A script for automatic file movement.
 
