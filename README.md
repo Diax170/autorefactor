@@ -16,6 +16,11 @@ and end directory is ```E:\\Documents\\important.pdf```,\
 the script will check for existence of ```download.pdf``` every second. If it exists, it will be moved to ```E:\\Documents``` and renamed to ```important.pdf```.\
 If ```important.pdf``` already existed before the move, it will be overwritten.
 
+# How to run
+You can either open:
+- The ```.pyw``` file if you have Python on your computer (recommended), you should have version 3.10 or newer,
+- or the executable (releases).
+
 # Commands and macros
 This program can also be used as a command. Open command prompt and open the script with ```/?``` argument for more info, e.g.
 ```autorefactor /?```
