@@ -8,9 +8,9 @@ When it detects that a specified file (start directory) exists, it moves it to a
 
 For example, if:
 
-Start directory is ```C:\\Users\\User\\Downloads\\download.pdf```\
-and end directory is ```E:\\Documents\\important.pdf```,\
-the script will check for existence of ```download.pdf``` every second. If it exists, it will be moved to ```E:\\Documents``` and renamed to ```important.pdf```.\
+Start directory is ```C:\Users\User\Downloads\download.pdf```\
+and end directory is ```E:\Documents\important.pdf```,\
+the script will check for existence of ```download.pdf``` every second. If it exists, it will be moved to ```E:\Documents``` and renamed to ```important.pdf```.\
 If ```important.pdf``` already existed before the move, it will be overwritten.
 
 # How to run
