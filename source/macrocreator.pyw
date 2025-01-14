@@ -3,7 +3,7 @@ import sys
 
 
 __title__ = 'Macro creator'
-__version__ = 'alpha v1.0.1'
+__version__ = 'alpha v1.0.2'
 __author__ = 'Diax170'
 
 

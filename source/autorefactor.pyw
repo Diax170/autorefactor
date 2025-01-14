@@ -37,7 +37,7 @@ del tmp_font
 
 __title__ = 'autorefactor'
 __author__ = 'Diax170'
-__version__ = 'alpha v1.0.1'
+__version__ = 'alpha v1.0.2'
 
 
 def help_():
@@ -176,7 +176,7 @@ else:
     if end_dir is None:
         press_to_quit()
     else:
-        start_dir = start_dir.strip('"')
+        end_dir = start_dir.strip('"')
 
     successes_val = False  # Show successes
     errors_val = True  # Show errors
