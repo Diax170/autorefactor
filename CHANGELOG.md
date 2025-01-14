@@ -14,4 +14,4 @@ The first release
 ## alpha v1.0.2
 
 ### Changed
-- Fixed a bug where the script doesn't automatically remove quotes ("") from the end directory in the main script
+- Fixed a bug where the script doesn't automatically remove quotes ("") from the end directory in the main script.
